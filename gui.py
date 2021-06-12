@@ -10,7 +10,7 @@ pygame.init()
 
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 600
-BLOCK_SIZE = 10
+BLOCK_SIZE = 20
 
 win = None
 pencil = None
